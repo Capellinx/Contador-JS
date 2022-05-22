@@ -45,4 +45,4 @@ Eu aprendi a posicionar melhor os elementos com o CSS e consegui deixar o site r
 
 - Website - [Lucas Capella](https://www.your-site.com)
 - Linkedin - [@Capellinx](https://www.linkedin.com/in/lucas-capella-608012202/)
-- Instagram - [@capellinx](https://www.instagram.com/capellinx/)# Contador-JS
+- Instagram - [@capellinx](https://www.instagram.com/capellinx/)
