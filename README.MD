@@ -1,9 +1,6 @@
-<h1 align="center"> Contador</h1>    
-
-<h2>
+<h1 align="center">IContador</h1>    
 
 
-# 🧠 O projeto
 <br>
 
 <h2 align="center">O programa deve subir a numeração dependendo do botão que o usuário clicar, seja ele + ou - </h2>
